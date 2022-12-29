@@ -1,7 +1,5 @@
 <h2 align="center">Website</h2>
 
-<p align="center"><i>Made with Vue.js 🖖.</i></p>
-
 
 ### Made with:
 
